@@ -1,0 +1,39 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "默",
+        "album": "默",
+        "singer": "那英",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "谁动了我的琴弦",
+        "album": "谁动了我的琴弦",
+        "singer": "周笔畅",
+        "duration": 239,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "他和她的故事",
+        "album": "他和她的故事",
+        "singer": "萧亚轩",
+        "duration": 248,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "舍不得",
+        "album": "舍不得",
+        "singer": "弦子",
+        "duration": 214,
+        "isLike": false
+    }
+
+]
